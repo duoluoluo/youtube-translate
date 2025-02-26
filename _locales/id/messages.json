@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Deskripsi ekstensi",
+      "message": "Dub video YouTube dalam bahasa pilihan pengguna. Pembaca halaman web"
+   },
+   "extName": {
+      "description": "Nama ekstensi",
+      "message": "Penyahian Subtitle YouTube dan Pembaca Halaman Web"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "Subjudul rusak."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Silakan coba lagi atau segarkan halaman. Penyedia situs mungkin memblokir mesin agar tidak membaca halaman."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Kesalahan Pemutaran"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "Jaringan lambat"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "Gagal memuat subtitle. Silakan periksa apakah subtitle video tersedia. Anda dapat mencoba mengaktifkan subtitle secara manual dan memutarnya lagi"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Mulai pemutaran dengan suara yang di-dubbing secara otomatis"
+   },
+   "settings_button_feedback": {
+      "description": " t/a",
+      "message": "Masukan"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Setel ulang"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Simpan"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Kecepatan Suara"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "volume suara dinamis"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "Mesin belum diinisialisasi. Silakan pilih suara pilihan Anda dan simpan"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Gagal memuat konfigurasi dari server. Silakan segarkan halaman untuk mencoba lagi"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "Semua konfigurasi telah disetel ulang ke nilai defaultnya"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": " Konfigurasi telah disimpan"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "Plugin telah diperbarui"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Dalam "
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "Tinggi"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Nada"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Standar"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Gulir Halaman Untuk Memeriksa Konten Sebelum Membaca"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Tampilkan Bar Kontrol Selama Membaca"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Sembunyikan"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Ikon Normal"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Tampilkan Ikon Mengambang"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Ikon Kecil"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Pendek"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "Normal"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Panjang"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Panjang Cache Suara"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Suara *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "Hanya Untuk Bahasa Saya"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "berbaring"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Normal"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Cepat"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Volume Suara"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Volume Suara YouTube"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>Orang Afrika -af\u003C1-am>Amharik -am\u003C2-ar>Arab -ar\u003C3-az>Azerbaijan -az\u003C4-bg>Bulgaria -bg\u003C5-bn>Bengali -bn\u003C6 -bs>Bosnia -bs\u003C7-ca>Katalan -ca\u003C8-cs>Ceko -cs\u003C9-cy>Welsh -cy\u003C10-da>Denmark -da\u003C11-de>Jerman -de\u003C12-el >Yunani (modern) -el\u003C13-en>Inggris -en\u003C14-es>Spanyol -es\u003C15-et>Estonia -et\u003C16-fa>Persia (Farsi) -fa\u003C17-fi>Finlandia -fi \u003C18-fil>Filipina -fil\u003C19-fr>Prancis -fr\u003C20-ga>Irlandia -ga\u003C21-gl>Galisia -gl\u003C22-gu>Gujarati -gu\u003C23-he>Ibrani (modern) - he\u003C24-hi>Hindi -hi\u003C25-hr>Kroasia -hr\u003C26-hu>Hongaria -hu\u003C27-id>Indonesia -id\u003C28-is>Islandia -is\u003C29-it>Italia -it\u003C 30-ja>Jepang -ja\u003C31-jv>Jawa -jv\u003C32-ka>Georgia -ka\u003C33-kk>Kazakh -kk\u003C34-km>Khmer -km\u003C35-kn>Kannada -kn\u003C36- ko>Bahasa Korea -ko\u003C37-lo>Lao -lo\u003C38-lt>Lithuania -lt\u003C39-lv>Latvia -lv\u003C40-mk>Makedonia -mk\u003C41-ml>Malayalam -ml\u003C42-mn> Mongolia -mn\u003C43-mr>Marathi -mr\u003C44-ms>Melayu -ms\u003C45-mt>Malta -mt\u003C46-my>Burma -my\u003C47-nb>Norwegia Bokmål -nb\u003C48-ne>Nepal -ne\u003C49-nl>Belanda -nl\u003C50-pl>Polandia -pl\u003C51-ps>Pashto -ps\u003C52-pt>Portugis -pt\u003C53-ro>Rumania -ro\u003C54-ru>Rusia -ru \u003C55-si>Sinhala -si\u003C56-sk>Slovak -sk\u003C57-sl>Slovenia -sl\u003C58-so>Somalia -so\u003C59-sq>Albania -sq\u003C60-sr>Serbia -sr\u003C61 -su>Bahasa Sunda -su\u003C62-sv>Swedia -sv\u003C63-sw>Swahili -sw\u003C64-ta>Tamil -ta\u003C65-te>Telugu -te\u003C66-th>Thai -th\u003C67-tr >Turki -tr\u003C68-uk>Ukraina -uk\u003C69-ur>Urdu -ur\u003C70-uz>Uzbek -uz\u003C71-vi>Vietnam -vi\u003C72-zh>Cina -zh\u003C73-zu>Zulu -zu"
+   }
+}

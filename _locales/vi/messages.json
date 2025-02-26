@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Mô tả tiện ích mở rộng",
+      "message": "Lồng tiếng video YouTube bằng ngôn ngữ ưa thích của người dùng. Trình đọc trang web"
+   },
+   "extName": {
+      "description": "Tên tiện ích mở rộng",
+      "message": "Phiên dịch phụ đề YouTube và Trình đọc trang web"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "Phụ đề bị hỏng."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Xin vui lòng thử lại hoặc làm mới trang. Nhà cung cấp trang web có thể chặn công cụ đọc trong trang."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Lỗi phát"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "Mạng chậm"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "Không tải được phụ đề. Vui lòng kiểm tra xem phụ đề của video có sẵn không. Bạn có thể thử bật phụ đề theo cách thủ công và phát lại"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Bắt đầu phát lại với giọng nói lồng tiếng tự động"
+   },
+   "settings_button_feedback": {
+      "description": " n/a",
+      "message": "Phản hồi"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Đặt lại"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Lưu"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Tốc độ giọng nói"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "âm lượng giọng nói động"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "Động cơ chưa được khởi động. Vui lòng chọn giọng nói ưa thích của bạn và lưu"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Không tải được cấu hình từ máy chủ. Vui lòng làm mới trang để thử lại"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "Tất cả cấu hình đã được đặt lại về giá trị mặc định"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": " Cấu hình đã được lưu"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "Plugin đã được cập nhật"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Sâu "
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "Cao"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Tone"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Tiêu chuẩn"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Cuộn trang để kiểm tra nội dung trước khi đọc"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Hiển thị thanh điều khiển trong khi đọc"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Ẩn"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Biểu tượng bình thường"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Hiển thị biểu tượng nổi"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Biểu tượng nhỏ"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Ngắn"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "Bình thường"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Dài"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Độ dài bộ nhớ đệm thoại"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Giọng nói *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "Chỉ dành cho ngôn ngữ của tôi"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "đặt trở lại"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Bình thường"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Nhanh"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Âm lượng âm thanh"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Âm lượng âm thanh Youtube"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>Tiếng Nam Phi -af\u003C1-am>Tiếng Amharic -am\u003C2-ar>Tiếng Ả Rập -ar\u003C3-az>Tiếng Azerbaijan -az\u003C4-bg>Tiếng Bungari -bg\u003C5-bn>Tiếng Bengali -bn\u003C6 -bs>Tiếng Bosnia -bs\u003C7-ca>Tiếng Catalan -ca\u003C8-cs>Tiếng Séc -cs\u003C9-cy>Tiếng Wales -cy\u003C10-da>Tiếng Đan Mạch -da\u003C11-de>Tiếng Đức -de\u003C12-el >Tiếng Hy Lạp (hiện đại) -el\u003C13-en>Tiếng Anh -en\u003C14-es>Tiếng Tây Ban Nha -es\u003C15-et>Tiếng Estonia -et\u003C16-fa>Tiếng Ba Tư (tiếng Farsi) -fa\u003C17-fi>Tiếng Phần Lan -fi \u003C18-fil>Tiếng Philippin -fil\u003C19-fr>Tiếng Pháp -fr\u003C20-ga>Tiếng Ireland -ga\u003C21-gl>Tiếng Galicia -gl\u003C22-gu>Gujarati -gu\u003C23-he>Tiếng Do Thái (hiện đại) - he\u003C24-hi>Hindi -hi\u003C25-hr>Tiếng Croatia -hr\u003C26-hu>Tiếng Hungary -hu\u003C27-id>Tiếng Indonesia -id\u003C28-is>Tiếng Iceland -is\u003C29-it>Tiếng Ý -it\u003C 30-ja>Tiếng Nhật -ja\u003C31-jv>Tiếng Java -jv\u003C32-ka>Tiếng Georgia -ka\u003C33-kk>Tiếng Kazakhstan -kk\u003C34-km>Khmer -km\u003C35-kn>Tiếng Kannada -kn\u003C36- ko>Tiếng Hàn -ko\u003C37-lo>Lào -lo\u003C38-lt>Tiếng Litva -lt\u003C39-lv>Tiếng Latvia -lv\u003C40-mk>Tiếng Macedonia -mk\u003C41-ml>Tiếng Malayalam -ml\u003C42-mn> Tiếng Mông Cổ -mn\u003C43-mr>Marathi -mr\u003C44-ms>Tiếng Mã Lai -ms\u003C45-mt>Tiếng Malta -mt\u003C46-my>Tiếng Miến Điện -my\u003C47-nb>Tiếng Na Uy Bokmål -nb\u003C48-ne>Tiếng Nepal -ne\u003C49-nl>Tiếng Hà Lan -nl\u003C50-pl>Tiếng Ba Lan -pl\u003C51-ps>Tiếng Pa-tô -ps\u003C52-pt>Tiếng Bồ Đào Nha -pt\u003C53-ro>Tiếng Rumani -ro\u003C54-ru>Tiếng Nga -ru \u003C55-si>Tiếng Sinhala -si\u003C56-sk>Tiếng Slovak -sk\u003C57-sl>Tiếng Slovenia -sl\u003C58-so>Tiếng Somali -so\u003C59-sq>Tiếng Albania -sq\u003C60-sr>Tiếng Serbia -sr\u003C61 -su>Tiếng Sundan -su\u003C62-sv>Tiếng Thụy Điển -sv\u003C63-sw>Tiếng Swahili -sw\u003C64-ta>Tamil -ta\u003C65-te>Telugu -te\u003C66-th>Thái -th\u003C67-tr >Tiếng Thổ Nhĩ Kỳ -tr\u003C68-uk>Tiếng Ukraina -uk\u003C69-ur>Urdu -ur\u003C70-uz>Tiếng Uzbek -uz\u003C71-vi>Tiếng Việt -vi\u003C72-zh>Tiếng Trung -zh\u003C73-zu>Zulu -zu"
+   }
+}

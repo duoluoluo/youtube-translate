@@ -1,0 +1,44 @@
+html {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.tts-floating-controlbar {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tts-floating-button {
+    background-color: white;
+    border-width: 1px;
+    border-color: transparent;
+    
+    border-radius: 100%;
+
+    width: 36px;
+    height: 36px;
+    
+    background-size: 25px 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    cursor: pointer;
+    padding: 0px;
+    box-sizing: border-box;
+    box-shadow: none;
+    transition: border-bottom 0.3s, transform 0.3s;
+    box-shadow:  0 3px 3px 0 rgba(200, 200, 200, 0.781),0 3px 3px 0 rgba(150,150,150,0.19);
+}
+
+
+.tts-floating-controlbar.clicked .tts-floating-button:hover {
+    border-color: #e60a0a;
+}
+

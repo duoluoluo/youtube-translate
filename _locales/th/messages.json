@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "คำอธิบายส่วนขยาย",
+      "message": "พากย์วิดีโอ YouTube ในภาษาที่ผู้ใช้ต้องการ โปรแกรมอ่านหน้าเว็บ"
+   },
+   "extName": {
+      "description": "ชื่อส่วนขยาย",
+      "message": "ซับไตเติลยูทูปและตัวอ่านหน้าเว็บ"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "คำบรรยายใช้งานไม่ได้"
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "โปรดลองอีกครั้งหรือรีเฟรชหน้า ผู้ให้บริการไซต์อาจบล็อกเอ็นจิ้นไม่ให้อ่านในหน้านั้น"
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "เกิดข้อผิดพลาดในการเล่น"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "เครือข่ายช้า"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "โหลดคำบรรยายไม่สำเร็จ โปรดตรวจสอบว่ามีคำบรรยายของวิดีโอหรือไม่ คุณอาจลองเปิดคำบรรยายด้วยตนเองแล้วเล่นอีกครั้ง"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "เริ่มเล่นด้วยเสียงพากย์โดยอัตโนมัติ"
+   },
+   "settings_button_feedback": {
+      "description": " n/a",
+      "message": "คำติชม"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "รีเซ็ต"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "บันทึก"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "ความเร็วเสียง"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "ระดับเสียงไวยากรณ์"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "เครื่องยนต์ยังไม่เริ่มทำงาน โปรดเลือกเสียงที่คุณต้องการและบันทึก"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "ไม่สามารถโหลดการกำหนดค่าจากเซิร์ฟเวอร์ โปรดรีเฟรชหน้าเพื่อลองอีกครั้ง"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "การกำหนดค่าทั้งหมดได้รับการรีเซ็ตเป็นค่าเริ่มต้นแล้ว"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": " บันทึกการกำหนดค่าแล้ว"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "อัปเดตปลั๊กอินแล้ว"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "ลึก "
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "สูง"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "โทน"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "มาตรฐาน"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "เลื่อนหน้าเพื่อตรวจสอบเนื้อหาก่อนอ่าน"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "แสดงแถบควบคุมระหว่างการอ่าน"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "ซ่อน"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "ไอคอนปกติ"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "แสดงไอคอนลอย"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "ไอคอนขนาดเล็ก"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "สั้น"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "ปกติ"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "ยาว"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "ความยาวแคชเสียง"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "เสียง *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "สำหรับภาษาของฉันเท่านั้น"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "วางกลับ"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "ปกติ"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "เร็ว"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "ระดับเสียง"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "ระดับเสียงของ YouTube"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>แอฟริกา -af\u003C1-am>อัมฮาริก -am\u003C2-ar>อาหรับ -ar\u003C3-az>อาเซอร์ไบจาน -az\u003C4-bg>บัลแกเรีย -bg\u003C5-bn>เบงกาลี -bn\u003C6 -bs>บอสเนีย -bs\u003C7-ca>คาตาลัน -ca\u003C8-cs>เช็ก -cs\u003C9-cy>เวลส์ -cy\u003C10-da>เดนมาร์ก -da\u003C11-de>เยอรมัน -de\u003C12-el >กรีก (สมัยใหม่) -el\u003C13-en>อังกฤษ -en\u003C14-es>สเปน -es\u003C15-et>เอสโตเนีย -et\u003C16-fa>เปอร์เซีย (ฟาร์ซี) -fa\u003C17-fi>ฟินแลนด์ -fi \u003C18-fil>ฟิลิปปินส์ -fil\u003C19-fr>ฝรั่งเศส -fr\u003C20-ga>ไอริช -ga\u003C21-gl>กาลิเซีย -gl\u003C22-gu>คุชราต -gu\u003C23-he>ฮีบรู (สมัยใหม่) - he\u003C24-hi>ภาษาฮินดี - hi\u003C25-hr>โครเอเชีย -hr\u003C26-hu>ฮังการี -hu\u003C27-id>อินโดนีเซีย -id\u003C28-is>ไอซ์แลนด์ -is\u003C29-it>อิตาลี -it\u003C 30-ja>ญี่ปุ่น -ja\u003C31-jv>ชวา -jv\u003C32-ka>จอร์เจีย -ka\u003C33-kk>คาซัค -kk\u003C34-km>เขมร -km\u003C35-kn>กันนาดา -kn\u003C36- ko>เกาหลี -ko\u003C37-lo>ลาว -lo\u003C38-lt>ลิทัวเนีย -lt\u003C39-lv>ลัตเวีย -lv\u003C40-mk>มาซิโดเนีย -mk\u003C41-ml>มาลายาลัม -ml\u003C42-mn> มองโกเลีย -mn\u003C43-mr>มราฐี -mr\u003C44-ms>มาเลย์ -ms\u003C45-mt>มอลตา -mt\u003C46-my>พม่า -my\u003C47-nb>นอร์เวย์ Bokmål -nb\u003C48-ne>เนปาล -ne\u003C49-nl>ดัตช์ -nl\u003C50-pl>โปแลนด์ -pl\u003C51-ps>Pashto -ps\u003C52-pt>โปรตุเกส -pt\u003C53-ro>โรมาเนีย -ro\u003C54-ru>รัสเซีย -ru \u003C55-si>สิงหล -si\u003C56-sk>สโลวัก -sk\u003C57-sl>สโลวีเนีย -sl\u003C58-so>โซมาลี -so\u003C59-sq>แอลเบเนีย -sq\u003C60-sr>เซอร์เบีย -sr\u003C61 -su>ซุนดา -su\u003C62-sv>สวีเดน -sv\u003C63-sw>สวาฮิลี -sw\u003C64-ta>ทมิฬ -ta\u003C65-te>เตลูกู -te\u003C66-th>ไทย -th\u003C67-tr >ตุรกี -tr\u003C68-uk>ยูเครน -uk\u003C69-ur>อูรดู -ur\u003C70-uz>อุซเบก -uz\u003C71-vi>เวียดนาม -vi\u003C72-zh>จีน -zh\u003C73-zu>ซูลู -zu"
+   }
+}

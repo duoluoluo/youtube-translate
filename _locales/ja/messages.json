@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "拡張子の説明",
+      "message": "YouTube ビデオをユーザーの優先言語でダビングします。 Web ページ リーダー"
+   },
+   "extName": {
+      "description": "拡張機能名",
+      "message": "YouTube字幕の吹き替えとウェブページリーダー"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "該当なし",
+      "message": "字幕が壊れています。"
+   },
+   "message_error_blocked_detail": {
+      "description": "該当なし",
+      "message": " 再試行するか、ページを更新してください。サイトプロバイダーは、エンジンによるページの読み取りをブロックしている可能性があります。"
+   },
+   "message_error_reading_blocked": {
+      "description": "該当なし",
+      "message": "再生エラー"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "ネットワークが遅い"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "字幕の読み込みに失敗しました。動画の字幕が利用可能かどうかを確認してください。手動で字幕をオンにしてもう一度再生してみてください。"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "自動的に吹き替え音声で再生を開始します"
+   },
+   "settings_button_feedback": {
+      "description": "該当なし",
+      "message": "フィードバック"
+   },
+   "settings_button_reset": {
+      "description": "該当なし",
+      "message": "リセット"
+   },
+   "settings_button_save": {
+      "description": "該当なし",
+      "message": "保存"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "音声速度"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "ダイナミックボイスボリューム"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "エンジンはまだ初期化されていません。好みの音声を選択して保存してください"
+   },
+   "settings_message_not_loaded": {
+      "description": "該当なし",
+      "message": "サーバーから設定をロードできませんでした。再試行するにはページを更新してください"
+   },
+   "settings_message_reset": {
+      "description": "該当なし",
+      "message": "すべての設定がデフォルト値にリセットされました"
+   },
+   "settings_message_saved": {
+      "description": "該当なし",
+      "message": "設定が保存されました"
+   },
+   "settings_message_updated": {
+      "description": "該当なし",
+      "message": "プラグインが更新されました"
+   },
+   "settings_pitch_deep": {
+      "description": "該当なし",
+      "message": "深い "
+   },
+   "settings_pitch_excited": {
+      "description": "該当なし",
+      "message": "高"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "トーン"
+   },
+   "settings_pitch_standard": {
+      "description": "該当なし",
+      "message": "標準"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "読む前にページをスクロールして内容を確認"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "読み取り中にコントロールバーを表示"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "非表示"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "該当なし",
+      "message": "通常アイコン"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "該当なし",
+      "message": "フローティングアイコンを表示"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "該当なし",
+      "message": "小さいアイコン"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "短い"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "通常"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "長さ"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "音声キャッシュ長"
+   },
+   "settings_voice_section": {
+      "description": "該当なし",
+      "message": "音声 *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "該当なし",
+      "message": "私の言語のみ"
+   },
+   "settings_voice_speed_l1": {
+      "description": "該当なし",
+      "message": "のんびり"
+   },
+   "settings_voice_speed_l3": {
+      "description": "該当なし",
+      "message": "通常"
+   },
+   "settings_voice_speed_l4": {
+      "description": "該当なし",
+      "message": "速い"
+   },
+   "speed_panel_volume": {
+      "description": "該当なし",
+      "message": "音量"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Youtube 音量"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>アフリカーンス語 -af\u003C1-am>アムハラ語 -am\u003C2-ar>アラビア語 -ar\u003C3-az>アゼルバイジャン語 -az\u003C4-bg>ブルガリア語 -bg\u003C5-bn>ベンガル語 -bn\u003C6 -bs>ボスニア語 -bs\u003C7-ca>カタルーニャ語 -ca\u003C8-cs>チェコ語 -cs\u003C9-cy>ウェールズ語 -cy\u003C10-da>デンマーク語 -da\u003C11-de>ドイツ語 -de\u003C12-el >ギリシャ語 (現代) -el\u003C13-en>英語 -en\u003C14-es>スペイン語 -es\u003C15-et>エストニア語 -et\u003C16-fa>ペルシア語 (ペルシャ語) -fa\u003C17-fi>フィンランド語 -fi \u003C18-fil>フィリピン語 -fil\u003C19-fr>フランス語 -fr\u003C20-ga>アイルランド語 -ga\u003C21-gl>ガリシア語 -gl\u003C22-gu>グジャラート語 -gu\u003C23-he>ヘブライ語 (現代) - he\u003C24-hi>ヒンディー語 -hi\u003C25-hr>クロアチア語 -hr\u003C26-hu>ハンガリー語 -hu\u003C27-id>インドネシア語 -id\u003C28-is>アイスランド語 -is\u003C29-it>イタリア語 -it\u003C 30-ja>日本語 -ja\u003C31-jv>ジャワ語 -jv\u003C32-ka>グルジア語 -ka\u003C33-kk>カザフ語 -kk\u003C34-km>クメール語 -km\u003C35-kn>カンナダ語 -kn\u003C36- ko>韓国語 -ko\u003C37-lo>ラオス語 -lo\u003C38-lt>リトアニア語 -lt\u003C39-lv>ラトビア語 -lv\u003C40-mk>マケドニア語 -mk\u003C41-ml>マラヤーラム語 -ml\u003C42-mn>モンゴル語 -mn\u003C43-mr>マラーティー語 -mr\u003C44-ms>マレー語 -ms\u003C45-mt>マルタ語 -mt\u003C46-my>ビルマ語 -my\u003C47-nb>ノルウェー語ブークモール語 -nb\u003C48-ne>ネパール語-ne\u003C49-nl>オランダ語 -nl\u003C50-pl>ポーランド語 -pl\u003C51-ps>パシュトゥー語 -ps\u003C52-pt>ポルトガル語 -pt\u003C53-ro>ルーマニア語 -ro\u003C54-ru>ロシア語 -ru \u003C55-si>シンハラ語 -si\u003C56-sk>スロバキア語 -sk\u003C57-sl>スロベニア語 -sl\u003C58-so>ソマリ語 -so\u003C59-sq>アルバニア語 -sq\u003C60-sr>セルビア語 -sr\u003C61 -su>スンダ語 -su\u003C62-sv>スウェーデン語 -sv\u003C63-sw>スワヒリ語 -sw\u003C64-ta>タミル語 -ta\u003C65-te>テルグ語 -te\u003C66-th>タイ語 -th\u003C67-tr >トルコ語 -tr\u003C68-uk>ウクライナ語 -uk\u003C69-ur>ウルドゥー語 -ur\u003C70-uz>ウズベク語 -uz\u003C71-vi>ベトナム語 -vi\u003C72-zh>中国語 -zh\u003C73-zu>ズールー語-zu"
+   }
+}

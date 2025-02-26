@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": "images/icon_ready.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "author": {
+      "email": "securealex@gmail.com",
+      "name": "Narrator"
+   },
+   "background": {
+      "service_worker": "all_background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "all_content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "host_permissions": [ "*://*.youtube.com/*", "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "images/icon_ready.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjfZbWNu68Au3m8a8PTZQ3A4wM9z7s3HaPQh1yctE2ESqUdaY8AM59/jkJjNIxPdeGE/Gj74suXr1ZhX4r/ftbwwZXZwaHZylrQSEOLs/3+gNhJ+yFFEKa+5YPiSHk4tnRPfLfDhy0cvCY3SVQ6lYDoOiOMiXYz+myVz4L+LVK5QmWF7m7XZ3BqbuqGXPt4fb/4Xp+UZnSDSzIdC/F0vyKlHuUKzikPRetT59iDDxyXpewNJiiLyyvHB6vLZ1guqD9q9sfTpb/b3+OGqNDTGU6H22nyR0eA8C0M627NGixBYx87oMgk6292WrUNIeFGGxomXjbFrQCBjp5TP2FdMpdwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "activeTab", "storage", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.3",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*" ],
+      "resources": [ "images/*", "sound/note.mp3", "util/client.min.js", "settings.css", "ui/tss_control_bar.css" ]
+   } ]
+}

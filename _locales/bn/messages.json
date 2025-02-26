@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "এক্সটেনশন বর্ণনা",
+      "message": "ইউটিউব ভিডিওগুলি ব্যবহারকারীর পছন্দের ভাষায় ডাব করুন। ওয়েব পেজ রিডার"
+   },
+   "extName": {
+      "description": "এক্সটেনশনের নাম",
+      "message": "YouTube সাবটাইটল দবিং ও ওয়েব পৃষ্ঠা রিডার"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "সাবটাইটেলটি নষ্ট হয়ে গেছে।"
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "অনুগ্রহ করে আবার চেষ্টা করুন বা পৃষ্ঠা রিফ্রেশ করুন। সাইট প্রদানকারী ইঞ্জিনকে পৃষ্ঠাটি পড়তে বাধা দিতে পারে।"
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Error Playing"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "নেটওয়ার্ক ধীর"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "সাবটাইটেল লোড করতে ব্যর্থ হয়েছে৷ ভিডিওর সাবটাইটেল উপলব্ধ কিনা অনুগ্রহ করে চেক করুন. আপনি ম্যানুয়ালি সাবটাইটেল চালু করে আবার চালাতে পারেন"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "স্বয়ংক্রিয়ভাবে ডাব করা ভয়েস দিয়ে প্লেব্যাক শুরু করুন"
+   },
+   "settings_button_feedback": {
+      "description": "n/a",
+      "message": "প্রতিক্রিয়া"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "রিসেট"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "সংরক্ষণ করুন"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "ভয়েস গতি"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "গতিশীল ভয়েস ভলিউম"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "ইঞ্জিনটি এখনও চালু হয়নি। অনুগ্রহ করে আপনার পছন্দের ভয়েস চয়ন করুন এবং সংরক্ষণ করুন"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "সার্ভার থেকে কনফিগারেশন লোড করতে ব্যর্থ৷ পুনরায় চেষ্টা করতে অনুগ্রহ করে পৃষ্ঠা রিফ্রেশ করুন"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "সমস্ত কনফিগারেশন তাদের ডিফল্ট মানগুলিতে পুনরায় সেট করা হয়েছে"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": "কনফিগারেশন সংরক্ষণ করা হয়েছে "
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "প্লাগইন আপডেট করা হয়েছে"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "গভীর"
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "উচ্চ"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "টোন"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "মানক"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "পড়ার আগে বিষয়বস্তু পরীক্ষা করতে পৃষ্ঠা স্ক্রোল করুন"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "পড়াকালে নিয়ন্ত্রণ বার দেখাও"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "লুকান"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "সাধারণ আইকন"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "ভাসমান আইকন দেখান"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "ছোট আইকন"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "সংক্ষিপ্ত"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n/a",
+      "message": "স্বাভাবিক"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "লং"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "ভয়েস ক্যাশের দৈর্ঘ্য"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "ভয়েস *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "শুধুমাত্র আমার ভাষার জন্য"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "আরাম করা"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "স্বাভাবিক"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "দ্রুত"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "সাউন্ড ভলিউম"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/a",
+      "message": "Youtube সাউন্ড ভলিউম"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>আফ্রিকান্স -af\u003C1-am>আমহারিক -am\u003C2-ar>আরবি -ar\u003C3-az>আজারবাইজানীয় -az\u003C4-bg>বুলগেরিয়ান -bg\u003C5-bn>বাংলা -bn\u003C6 -bs>বসনিয়ান -bs\u003C7-ca>কাতালান -ca\u003C8-cs>চেক -cs\u003C9-cy>ওয়েলশ -cy\u003C10-da>ড্যানিশ -da\u003C11-de>জার্মান -de\u003C12-el >গ্রীক (আধুনিক) -el\u003C13-en>ইংরেজি -en\u003C14-es>স্প্যানিশ -es\u003C15-et>এস্তোনিয়ান -et\u003C16-fa>ফারসি (ফার্সি) -fa\u003C17-fi>ফিনিশ -fi \u003C18-fil>ফিলিপিনো -fil\u003C19-fr>ফ্রেঞ্চ -fr\u003C20-ga>আইরিশ -ga\u003C21-gl>গ্যালিশিয়ান -gl\u003C22-gu>গুজরাটি -gu\u003C23-he>হিব্রু (আধুনিক) - he\u003C24-hi>হিন্দি -hi\u003C25-hr>ক্রোয়েশিয়ান -hr\u003C26-hu>হাঙ্গেরিয়ান -hu\u003C27-id>ইন্দোনেশিয়ান -id\u003C28-is>আইসল্যান্ডিক -is\u003C29-it>ইতালীয় -it\u003C 30-ja>জাপানিজ -ja\u003C31-jv>জাভানিজ -jv\u003C32-ka>জর্জিয়ান -ka\u003C33-kk>কাজাখ -kk\u003C34-km>খমের -km\u003C35-kn>কন্নড় -kn\u003C36- ko>কোরিয়ান -ko\u003C37-lo>Lao -lo\u003C38-lt>Lithuanian -lt\u003C39-lv>Latvian -lv\u003C40-mk>ম্যাসিডোনিয়ান -mk\u003C41-ml>মালায়ালাম -ml\u003C42-mn> মঙ্গোলিয়ান -mn\u003C43-mr>মারাঠি -mr\u003C44-ms>মালয় -ms\u003C45-mt>মাল্টিজ -mt\u003C46-my>বর্মী -my\u003C47-nb>নরওয়েজিয়ান বোকমাল -nb\u003C48-ne>নেপালি -ne\u003C49-nl>ডাচ -nl\u003C50-pl>পোলিশ -pl\u003C51-ps>পশতু -ps\u003C52-pt>পর্তুগিজ -pt\u003C53-ro>রোমানিয়ান -ro\u003C54-ru>রাশিয়ান -ru \u003C55-si>সিংহলিজ -si\u003C56-sk>স্লোভাক -sk\u003C57-sl>স্লোভেন -sl\u003C58-so>সোমালি -so\u003C59-sq>আলবেনিয়ান -sq\u003C60-sr>সার্বিয়ান -sr\u003C61 -su>সুদানিজ -su\u003C62-sv>সুইডিশ -sv\u003C63-sw>সোয়াহিলি -sw\u003C64-ta>তামিল -ta\u003C65-te>তেলেগু -te\u003C66-th>থাই -th\u003C67-tr >তুর্কি -tr\u003C68-uk>ইউক্রেনীয় -uk\u003C69-ur>উর্দু -ur\u003C70-uz>উজবেক -uz\u003C71-vi>ভিয়েতনামী -vi\u003C72-zh>চীনা -zh\u003C73-zu>জুলু -zu"
+   }
+}

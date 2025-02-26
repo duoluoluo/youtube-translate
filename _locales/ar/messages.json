@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "وصف الإضافة",
+      "message": "تغميس مقاطع الفيديو على YouTube باللغة المفضلة للمستخدم. قارئ صفحات الويب"
+   },
+   "extName": {
+      "description": "اسم الإضافة",
+      "message": "تغميس ترجمات YouTube وقارئ صفحات الويب"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "غير محدد",
+      "message": "الترجمة الموجودة معطوبة."
+   },
+   "message_error_blocked_detail": {
+      "description": "غير محدد",
+      "message": "يرجى إعادة المحاولة أو تحديث الصفحة. قد يمنع مزود الموقع المحرك من القراءة في الصفحة."
+   },
+   "message_error_reading_blocked": {
+      "description": "غير محدد",
+      "message": "خطأ في التشغيل"
+   },
+   "message_error_tts_error": {
+      "description": "غير محدد",
+      "message": "الشبكة بطيئة"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "غير محدد",
+      "message": "فشل في تحميل الترجمة. يرجى التحقق من توفر ترجمة الفيديو. قد تحاول تفعيل الترجمة يدويًا وتشغيلها مرة أخرى"
+   },
+   "settings_auto_play": {
+      "description": "غير محدد",
+      "message": "بدء التشغيل تلقائيًا بصوت مغمس"
+   },
+   "settings_button_feedback": {
+      "description": "غير محدد",
+      "message": "ردود الفعل"
+   },
+   "settings_button_reset": {
+      "description": "غير محدد",
+      "message": "إعادة تعيين"
+   },
+   "settings_button_save": {
+      "description": "غير محدد",
+      "message": "حفظ"
+   },
+   "settings_dvl_section": {
+      "description": "غير محدد",
+      "message": "سرعة الصوت"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "مستوى صوت ديناميكي"
+   },
+   "settings_message_not_initialized": {
+      "description": "غير محدد",
+      "message": "لم يتم تهيئة المحرك بعد. يرجى اختيار الصوت المفضل لديك وحفظه"
+   },
+   "settings_message_not_loaded": {
+      "description": "غير محدد",
+      "message": "فشل في تحميل التكوين من الخادم. يرجى تحديث الصفحة لإعادة المحاولة"
+   },
+   "settings_message_reset": {
+      "description": "غير محدد",
+      "message": "تمت إعادة تعيين جميع التكوينات إلى قيمها الافتراضية"
+   },
+   "settings_message_saved": {
+      "description": "غير محدد",
+      "message": "تم حفظ التكوين"
+   },
+   "settings_message_updated": {
+      "description": "غير محدد",
+      "message": "تم تحديث الإضافة"
+   },
+   "settings_pitch_deep": {
+      "description": "غير محدد",
+      "message": "عميق"
+   },
+   "settings_pitch_excited": {
+      "description": "غير محدد",
+      "message": "مرتفع"
+   },
+   "settings_pitch_section": {
+      "description": "غير محدد",
+      "message": "النغمة"
+   },
+   "settings_pitch_standard": {
+      "description": "غير محدد",
+      "message": "قياسي"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "غير محدد",
+      "message": "التمرير قبل قراءة الصفحة للتحقق من المحتوى"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "عرض شريط التحكم أثناء القراءة"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "غير محدد",
+      "message": "إخفاء"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "غير محدد",
+      "message": "أيقونة عادية"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "غير محدد",
+      "message": "إظهار الأيقونة المتحركة"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "غير محدد",
+      "message": "أيقونة صغيرة"
+   },
+   "settings_voice_cache_l1": {
+      "description": "غير محدد",
+      "message": "قصير"
+   },
+   "settings_voice_cache_l2": {
+      "description": "غير محدد",
+      "message": "عادي"
+   },
+   "settings_voice_cache_l3": {
+      "description": "غير محدد",
+      "message": "طويل"
+   },
+   "settings_voice_cache_section": {
+      "description": "غير محدد",
+      "message": "طول ذاكرة الصوت"
+   },
+   "settings_voice_section": {
+      "description": "غير محدد",
+      "message": "الصوت *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "غير محدد",
+      "message": "لغةي فقط"
+   },
+   "settings_voice_speed_l1": {
+      "description": "غير محدد",
+      "message": " هادئ"
+   },
+   "settings_voice_speed_l3": {
+      "description": "غير محدد",
+      "message": "عادي"
+   },
+   "settings_voice_speed_l4": {
+      "description": "غير محدد",
+      "message": "سريع"
+   },
+   "speed_panel_volume": {
+      "description": "غير محدد",
+      "message": "حجم الصوت"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "غير محدد",
+      "message": "حجم صوت YouTube"
+   },
+   "voices": {
+      "description": "غير محدد",
+      "message": "\u003C0-af>الأفركانية -af\u003C1-am>الأمهرية -am\u003C2-ar>العربية -ar\u003C3-az>الأذرية -az\u003C4-bg>البلغارية -bg\u003C5-bn>البنغالية -bn\u003C6-bs>البوسنية -bs\u003C7-ca>الكتالانية -ca\u003C8-cs>التشيكية -cs\u003C9-cy>الويلزية -cy\u003C10-da>الدانماركية -da\u003C11-de>الألمانية -de\u003C12-el>اليونانية (الحديثة) -el\u003C13-en>الإنجليزية -en\u003C14-es>الإسبانية -es\u003C15-et>الإستونية -et\u003C16-fa>الفارسية (الفارسية) -fa\u003C17-fi>الفنلندية -fi\u003C18-fil>الفلبينية -fil\u003C19-fr>الفرنسية -fr\u003C20-ga>الأيرلندية -ga\u003C21-gl>الجاليكية -gl\u003C22-gu>الغوجاراتية -gu\u003C23-he>العبرية (الحديثة) -he\u003C24-hi>الهندية -hi\u003C25-hr>الكرواتية -hr\u003C26-hu>الهنغارية -hu\u003C27-id>الاندونيسية -id\u003C28-is>الأيسلندية -is\u003C29-it>الإيطالية -it\u003C30-ja>اليابانية -ja\u003C31-jv>الجاوية -jv\u003C32-ka>الجورجية -ka\u003C33-kk>الказاخستانية -kk\u003C34-km>الخمير -km\u003C35-kn>الكانادا -kn\u003C36-ko>الكورية -ko\u003C37-lo>اللاو -lo\u003C38-lt>الليتوانية -lt\u003C39-lv>اللاتفية -lv\u003C40-mk>المقدونية -mk\u003C41-ml>الملايالامية -ml\u003C42-mn>المغولية -mn\u003C43-mr>المراثية -mr\u003C44-ms>الملايو -ms\u003C45-mt>المالطية -mt\u003C46-my>البورمية -my\u003C47-nb>البوكمالية النرويجية -nb\u003C48-ne>النيبالية -ne\u003C49-nl>الهولندية -nl\u003C50-pl>البولندية -pl\u003C51-ps>البشتو -ps\u003C52-pt>البرتغالية -pt\u003C53-ro>الرومانية -ro\u003C54-ru>الروسية -ru\u003C55-si>السنهالية -si\u003C56-sk>السلوفاكية -sk\u003C57-sl>السلوفينية -sl\u003C58-so>الصومالية -so\u003C59-sq>الألبانية -sq\u003C60-sr>الصربية -sr\u003C61-su>السوندانية -su\u003C62-sv>السويدية -sv\u003C63-sw>السواحلية -sw\u003C64-ta>التамиلية -ta\u003C65-te>التيلوغو -te\u003C66-th>التايلاندية -th\u003C67-tr>التركية -tr\u003C68-uk>الأوكرانية -uk\u003C69-ur>الأردية -ur\u003C70-uz>الأوزبكية -uz\u003C71-vi>الفيتنامية -vi\u003C72-zh>الصينية -zh\u003C73-zu>الزولو -zu"
+   }
+}

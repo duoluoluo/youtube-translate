@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Descripción de la extensión",
+      "message": "Doblar videos de YouTube en el idioma preferido del usuario. Lector de páginas web"
+   },
+   "extName": {
+      "description": "Nombre de la extensión",
+      "message": "Doblaje de subtítulos de YouTube y lector de páginas web"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "El subtítulo está roto."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Vuelva a intentarlo o actualice la página. El proveedor del sitio puede impedir que el motor lea la página."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Error al reproducir"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "La red es lenta"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "No se pudo cargar el subtítulo. Por favor verifique si el subtítulo del video está disponible. Puedes intentar activar manualmente los subtítulos y reproducirlos nuevamente."
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Inicie la reproducción con voz doblada automáticamente"
+   },
+   "settings_button_feedback": {
+      "description": " n/a",
+      "message": "Comentarios"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Restablecer"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Guardar"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Velocidad de voz"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "volumen de voz dinámico"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "El motor aún no está inicializado. Elija su voz preferida y guarde"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Error al cargar la configuración desde el servidor. Actualice la página para volver a intentarlo"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "Todas las configuraciones se han restablecido a sus valores predeterminados"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": " La configuración se ha guardado"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "El complemento se ha actualizado"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Deep "
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "Alto"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Tono"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Estándar"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Desplazarse por la página para comprobar el contenido antes de leer"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Mostrar barra de control durante la lectura"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Ocultar"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Icono normal"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Mostrar icono flotante"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Icono pequeño"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Corto"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "Normal"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Larga"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Longitud de caché de voz"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Voz *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "Solo para mi idioma"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "relajado"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Normal"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Rápido"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Volumen de sonido"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Volumen de sonido de Youtube"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>Afrikáans -af\u003C1-am>Amárico -am\u003C2-ar>Árabe -ar\u003C3-az>Azerbaiyano -az\u003C4-bg>Búlgaro -bg\u003C5-bn>Bengalí -bn\u003C6 -bs>bosnio -bs\u003C7-ca>catalán -ca\u003C8-cs>checo -cs\u003C9-cy>galés -cy\u003C10-da>danés -da\u003C11-de>alemán -de\u003C12-el >Griego (moderno) -el\u003C13-en>Inglés -en\u003C14-es>Español -es\u003C15-et>Estonio -et\u003C16-fa>Persa (farsi) -fa\u003C17-fi>Finlandés -fi \u003C18-fil>filipino -fil\u003C19-fr>francés -fr\u003C20-ga>irlandés -ga\u003C21-gl>gallego -gl\u003C22-gu>gujarati -gu\u003C23-he>hebreo (moderno) - he\u003C24-hi>hindi -hi\u003C25-hr>croata -hr\u003C26-hu>húngaro -hu\u003C27-id>indonesio -id\u003C28-is>islandés -is\u003C29-it>italiano -it\u003C 30-ja>japonés -ja\u003C31-jv>javanés -jv\u003C32-ka>georgiano -ka\u003C33-kk>kazajo -kk\u003C34-km>jemer -km\u003C35-kn>kannada -kn\u003C36- ko>coreano -ko\u003C37-lo>lao -lo\u003C38-lt>lituano -lt\u003C39-lv>letón -lv\u003C40-mk>macedonio -mk\u003C41-ml>malayalam -ml\u003C42-mn> Mongol -mn\u003C43-mr>Marathi -mr\u003C44-ms>Malayo -ms\u003C45-mt>Maltés -mt\u003C46-my>Birmano -my\u003C47-nb>Bokmål noruego -nb\u003C48-ne>Nepalí -ne\u003C49-nl>holandés -nl\u003C50-pl>polaco -pl\u003C51-ps>pashto -ps\u003C52-pt>portugués -pt\u003C53-ro>rumano -ro\u003C54-ru>ruso -ru \u003C55-si>cingalés -si\u003C56-sk>eslovaco -sk\u003C57-sl>esloveno -sl\u003C58-so>somalí -so\u003C59-sq>albanés -sq\u003C60-sr>serbio -sr\u003C61 -su>sundanés -su\u003C62-sv>sueco -sv\u003C63-sw>swahili -sw\u003C64-ta>tamil -ta\u003C65-te>telugu -te\u003C66-th>tailandés -th\u003C67-tr >Turco -tr\u003C68-uk>Ucraniano -uk\u003C69-ur>Urdu -ur\u003C70-uz>Uzbeko -uz\u003C71-vi>Vietnamita -vi\u003C72-zh>Chino -zh\u003C73-zu>Zulu -zu"
+   }
+}

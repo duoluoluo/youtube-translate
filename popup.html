@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Web Reader</title>
+    <script src="all_popup.js"></script>
+    <link rel="stylesheet" href="ui/popup.css">
+</head>
+
+<body>
+    <div>
+        <div id="tts-floating-controlbar" class="tts-floating-controlbar">
+            <audio id='tts-audio'></audio>
+            <button id="tts-play-button" class="tts-floating-button play">
+                <svg id='tts-status-bar' width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                    <path id='tts-status-bar-progress' fill='none' stroke='#0c76f0' stroke-width='1' />
+                    <path id='tts-status-bar-progress_indicator' fill='none' stroke='red' stroke-width='2' />
+                </svg>
+            </button>
+            <button id="tts-voice-button" class="tts-floating-button voice"></button>
+            <button id="tts-voice-level-button" class="tts-floating-button volume"></button>
+            <button id="tts-setup-button" class="tts-floating-button setting"></button>
+
+        </div>
+    </div>
+</body>
+
+</html>

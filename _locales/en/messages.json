@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Dub YouTube videos in the user's preferred language. Web page reader"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "YouTube Subtitle Dubbing and Web Page Reader"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "The subtitle is broken."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Please retry or refresh page. Site provider may block engine from reading in the page."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Error Playing"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "Network is slow"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "Failed to load subtitle. Please check if video's subtitle is available. You may try manually turn on subtitle and play it again"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Start playback with dubbed voice automatically"
+   },
+   "settings_button_feedback": {
+      "description": "n/a",
+      "message": "Feedback"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Reset"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Save"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Voice Speed"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "Dynamic voice volume"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "The engine is not initialized yet. Please choose your prefered voice and save"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Failed to load configuration from server. Please refresh page to retry"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "All configurations have been reset to their default values"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": "Configuration has been saved"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "Plugin has been updated"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Deep"
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "High"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Tone"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Standard"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Scroll Page To Check Content Before Reading"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Show Control Bar During Reading"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Hide"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Normal Icon"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Show Floating Icon"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Small Icon"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Short"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n/a",
+      "message": "Normal"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Long"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Voice Cache Length"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Voice *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "For My Language Only"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "Laid back"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Normal"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Fast"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Sound Volume"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/a",
+      "message": "Youtube Sound Volume"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>Afrikaans -af\u003C1-am>Amharic -am\u003C2-ar>Arabic -ar\u003C3-az>Azerbaijani -az\u003C4-bg>Bulgarian -bg\u003C5-bn>Bengali -bn\u003C6-bs>Bosnian -bs\u003C7-ca>Catalan -ca\u003C8-cs>Czech -cs\u003C9-cy>Welsh -cy\u003C10-da>Danish -da\u003C11-de>German -de\u003C12-el>Greek (modern) -el\u003C13-en>English -en\u003C14-es>Spanish -es\u003C15-et>Estonian -et\u003C16-fa>Persian (Farsi) -fa\u003C17-fi>Finnish -fi\u003C18-fil>Filipino -fil\u003C19-fr>French -fr\u003C20-ga>Irish -ga\u003C21-gl>Galician -gl\u003C22-gu>Gujarati -gu\u003C23-he>Hebrew (modern) -he\u003C24-hi>Hindi -hi\u003C25-hr>Croatian -hr\u003C26-hu>Hungarian -hu\u003C27-id>Indonesian -id\u003C28-is>Icelandic -is\u003C29-it>Italian -it\u003C30-ja>Japanese -ja\u003C31-jv>Javanese -jv\u003C32-ka>Georgian -ka\u003C33-kk>Kazakh -kk\u003C34-km>Khmer -km\u003C35-kn>Kannada -kn\u003C36-ko>Korean -ko\u003C37-lo>Lao -lo\u003C38-lt>Lithuanian -lt\u003C39-lv>Latvian -lv\u003C40-mk>Macedonian -mk\u003C41-ml>Malayalam -ml\u003C42-mn>Mongolian -mn\u003C43-mr>Marathi -mr\u003C44-ms>Malay -ms\u003C45-mt>Maltese -mt\u003C46-my>Burmese -my\u003C47-nb>Norwegian Bokmål -nb\u003C48-ne>Nepali -ne\u003C49-nl>Dutch -nl\u003C50-pl>Polish -pl\u003C51-ps>Pashto -ps\u003C52-pt>Portuguese -pt\u003C53-ro>Romanian -ro\u003C54-ru>Russian -ru\u003C55-si>Sinhalese -si\u003C56-sk>Slovak -sk\u003C57-sl>Slovene -sl\u003C58-so>Somali -so\u003C59-sq>Albanian -sq\u003C60-sr>Serbian -sr\u003C61-su>Sundanese -su\u003C62-sv>Swedish -sv\u003C63-sw>Swahili -sw\u003C64-ta>Tamil -ta\u003C65-te>Telugu -te\u003C66-th>Thai -th\u003C67-tr>Turkish -tr\u003C68-uk>Ukrainian -uk\u003C69-ur>Urdu -ur\u003C70-uz>Uzbek -uz\u003C71-vi>Vietnamese -vi\u003C72-zh>Chinese -zh\u003C73-zu>Zulu -zu"
+   }
+}

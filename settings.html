@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Stream Client</title>
+    <script type="module" src="all_settings.js"></script>
+    <script src="./util/client.min.js"></script>
+    <link rel="stylesheet" href="settings.css">
+</head>
+
+<body>
+    <div class="bg">
+
+        <section>
+            <h2 for="pitch" tts-data-i18n="settings_pitch_section">Tone</h2>
+            <ol class="progress-bar" id="pitch">
+                <li class="is-complete" value="0" tts-data-i18n="settings_pitch_deep">Deep</li>
+                <li class="is-complete" value="1" tts-data-i18n="settings_pitch_standard">Standard</li>
+                <li class="is-complete" value="2" tts-data-i18n="settings_pitch_excited">High</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2 tts-data-i18n="settings_voice_section">Voice *<div id="loading_span" class="loading_span"></div>
+            </h2>
+            <div style="display: flex">
+                <select id="language">
+                    <option value="" tts-data-i18n="settings_voice_language">Language...</option>
+                </select>
+                <select id="voice">
+                    <option value="" tts-data-i18n="settings_voice_voice">Voice...</option>
+                </select>
+            </div>
+            <div class="form-control">
+                <input id="show_my_language_only" type="checkbox" />
+                <label for="show_my_language_only" tts-data-i18n="settings_voice_show_my_language_only">
+                    For My Language Only
+                </label>
+            </div>
+        </section>
+        <section>
+            <h2 tts-data-i18n="settings_show_floating_icon_section">Show Floatnig Icon</h2>
+            <select id="show_tts_floating_icon">
+                <option value="normal" tts-data-i18n="settings_show_floating_icon_normal">Normal Icon</option>
+                <option value="small" tts-data-i18n="settings_show_floating_icon_small">Small Icon</option>
+                <option value="hide" tts-data-i18n="settings_show_floating_icon_hide">Hide</option>
+            </select>
+            <!-- <div class="form-control">
+                <input id="show_floating_bar" type="checkbox" />
+                <label for="show_floating_bar" tts-data-i18n="settings_show_floating_bar">
+                    Show Control Bar During Reading
+                </label>
+            </div> -->
+        </section>
+        <section>
+            <h2 tts-data-i18n="settings_scroll_before_reading_page_section">Scroll Page To Check Content Before Reading
+            </h2>
+            <label class="switch">
+                <input type="checkbox" id="scroll_before_reading_page" />
+                <span class="slider round"></span>
+            </label>
+        </section>
+        <section>
+            <h2 tts-data-i18n="settings_dvl_section">Voice Speed</h2>
+            <ol class="progress-bar" id="dvl">
+                <li class="is-complete" value="0" tts-data-i18n="settings_voice_speed_l1">Lesure</li>
+                <li class="is-complete" value="1" tts-data-i18n="settings_voice_speed_l3">Standard</li>
+                <li class="is-complete" value="2" tts-data-i18n="settings_voice_speed_l4">Fast</li>
+            </ol>
+        </section>
+        <section>
+            <h2 tts-data-i18n="settings_auto_play">Automatically Play Dubbed Voice
+            </h2>
+            <label class="switch">
+                <input type="checkbox" id="auto_play" />
+                <span class="slider round"></span>
+            </label>
+        </section>
+        <section>
+            <h2 tts-data-i18n="settings_dynamic_volume">Dynamic Voice Volume
+            </h2>
+            <label class="switch">
+                <input type="checkbox" id="dynamic_volume" />
+                <span class="slider round"></span>
+            </label>
+        </section>
+
+        <div id="alertDiv" class="message-container">
+            <!-- <span id="closebtn" class="closebtn">&times;</span> -->
+            <label class="alert error" id="tts_error_not_initialized"
+                tts-data-i18n="settings_message_not_initialized">The
+                engine is not initialized
+                yet. Please choose your prefered voice and
+                save</label>
+            <label class="alert error" id="tts_error_fail_load" tts-data-i18n="settings_message_not_loaded">Failed to
+                load configuration from server. Please refresh page to retry</label>
+            <label class="alert success" id="tts_message_reset" tts-data-i18n="settings_message_reset">All
+                configurations have been reset to their default values</label>
+            <label class="alert success" id="tts_message_success_saved"
+                tts-data-i18n="settings_message_saved">Configuration has been saved</label>
+            <label class="alert success" id="tts_message_updated" tts-data-i18n="settings_message_updated">Plugin has
+                been updated</label>
+        </div>
+        <div class="bottom-line">
+            <a id="helpHyperlink" href="https://www.readit.cloud/feedback/help.html" class="help-icon"><img src="images/help.png"
+                    class='help-icon' aria-placeholder="help"></a>
+            <button id="reset_button" tts-data-i18n="settings_button_reset">Reset</button>
+            <button id="save_button" tts-data-i18n="settings_button_save">Save</button>
+        </div>
+    </div>
+</body>
+
+</html>

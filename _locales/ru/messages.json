@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Дублируйте видео YouTube на предпочитаемом пользователем языке. Читатель веб-страниц"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Дублирование субтитров YouTube и проигрыватель веб-страниц"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "Подзаголовок сломан."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Пожалуйста, повторите попытку или обновите страницу. Поставщик сайта может заблокировать движку чтение страницы."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Ошибка воспроизведения"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "Сеть работает медленно"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "Не удалось загрузить субтитры. Пожалуйста, проверьте, доступны ли субтитры к видео. Вы можете попробовать вручную включить субтитры и воспроизвести их снова."
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Автоматический запуск воспроизведения с дублированным голосом"
+   },
+   "settings_button_feedback": {
+      "description": "n/a",
+      "message": "Обратная связь"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Перезагрузить"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Сохранять"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Скорость голоса"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "динамический громкость голоса"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "Двигатель еще не инициализирован. Пожалуйста, выберите предпочитаемый голос и сохраните"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Не удалось загрузить конфигурацию с сервера. Пожалуйста, обновите страницу, чтобы повторить попытку."
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "Все конфигурации были сброшены к значениям по умолчанию."
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": "Конфигурация сохранена."
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "Плагин обновлен"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Глубокий"
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "Высокий"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Тон"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Стандартный"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Прокрутите страницу, чтобы проверить содержимое перед чтением"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Показать панель управления во время чтения"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Скрывать"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Обычный значок"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Показать плавающий значок"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Маленькая иконка"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Короткий"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n/a",
+      "message": "Нормальный"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Длинный"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Длина голосового кэша"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Голос *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "Только для моего языка"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "Вальяжный"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Нормальный"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Быстрый"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Громкость"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/a",
+      "message": "Громкость звука YouTube"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>африкаанс -af\u003C1-am>амхарский -am\u003C2-ar>арабский -ar\u003C3-az>азербайджанский -az\u003C4-bg>болгарский -bg\u003C5-bn>бенгальский -bn\u003C6 -bs>Боснийский -bs\u003C7-ca>Каталанский -ca\u003C8-cs>Чешский -cs\u003C9-cy>Валлийский -cy\u003C10-da>Датский -da\u003C11-de>Немецкий -de\u003C12-el >Греческий (современный) -el\u003C13-en>Английский -en\u003C14-es>Испанский -es\u003C15-et>Эстонский -et\u003C16-fa>Персидский (фарси) -fa\u003C17-fi>Финский -fi \u003C18-fil>Филиппинский -fil\u003C19-fr>Французский -fr\u003C20-ga>Ирландский -ga\u003C21-gl>Галисийский -gl\u003C22-gu>Гуджаратский -gu\u003C23-he>Иврит (современный) - he\u003C24-hi>хинди -hi\u003C25-hr>хорватский -hr\u003C26-hu>венгерский -hu\u003C27-id>индонезийский -id\u003C28-is>исландский -is\u003C29-it>итальянский -it\u003C 30-ja>Японский -ja\u003C31-jv>Яванский -jv\u003C32-ка>Грузинский -ka\u003C33-kk>Казахский -kk\u003C34-km>Кхмерский -km\u003C35-kh>Каннада -kh\u003C36- ko>Корейский -ko\u003C37-lo>Лаосский -lo\u003C38-lt>Литовский -lt\u003C39-lv>Латвийский -lv\u003C40-mk>Македонский -mk\u003C41-ml>Малайяламский -ml\u003C42-mn> Монгольский -mn\u003C43-mr>маратхи -mr\u003C44-ms>малайский -ms\u003C45-mt>мальтийский -mt\u003C46-my>бирманский -my\u003C47-nb>норвежский букмол -nb\u003C48-ne>непальский -ne\u003C49-nl>голландский -nl\u003C50-pl>польский -pl\u003C51-ps>пушту -ps\u003C52-pt>португальский -pt\u003C53-ro>румынский -ro\u003C54-ru>русский -ru \u003C55-si>Сингальский -si\u003C56-sk>Словацкий -sk\u003C57-sl>Словенский -sl\u003C58-so>Сомали -so\u003C59-sq>Албанский -sq\u003C60-sr>Сербский -sr\u003C61 -su>Сунданский -su\u003C62-sv>Шведский -sv\u003C63-sw>Суахили -sw\u003C64-ta>Тамильский -ta\u003C65-te>Телугу -te\u003C66-th>Тайский -th\u003C67-tr >Турецкий -tr\u003C68-uk>Украинский -uk\u003C69-ur>Урду -ur\u003C70-uz>Узбекский -uz\u003C71-vi>Вьетнамский -vi\u003C72-zh>Китайский -zh\u003C73-zu>Зулу -zh"
+   }
+}

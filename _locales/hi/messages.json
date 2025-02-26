@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Extension description",
+      "message": "यूट्यूब वीडियो को उपयोगकर्ता की पसंदीदा भाषा में डब करें। वेब पेज रीडर"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "YouTube उपशीर्षक डबलिंग और वेब पेज रीडर"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "उपशीर्षक टूटा हुआ है।"
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "कृपया पुनः प्रयास करें या पेज को रिफ्रेश करें। साइट प्रदाता इंजन को पेज में पढ़ने से रोक सकता है।"
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "त्रुटि प्लेइंग"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "नेटवर्क धीमा है"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "उपशीर्षक लोड करने में विफल। कृपया जांचें कि वीडियो का उपशीर्षक उपलब्ध है या नहीं। आप मैन्युअल रूप से उपशीर्षक चालू करने और इसे फिर से चलाने का प्रयास कर सकते हैं"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "डब की गई आवाज़ के साथ प्लेबैक स्वचालित रूप से शुरू करें"
+   },
+   "settings_button_feedback": {
+      "description": "n/a",
+      "message": "प्रतिक्रिया"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "रीसेट करें"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "सहेजें"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "वॉयस स्पीड"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "डायनेमिक वोइस वॉल्यूम"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "इंजन अभी तक आरंभ नहीं हुआ है। कृपया अपनी पसंदीदा आवाज़ चुनें और सहेजें"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "सर्वर से कॉन्फ़िगरेशन लोड करने में विफल। कृपया पुनः प्रयास करने के लिए पृष्ठ को रीफ़्रेश करें"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "सभी कॉन्फ़िगरेशन को उनके डिफ़ॉल्ट मानों पर रीसेट कर दिया गया है"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": "कॉन्फ़िगरेशन सहेजा गया है"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "प्लगइन को अपडेट किया गया है"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "गहरा"
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "उच्च"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "स्वर"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "मानक"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "पढ़ने से पहले सामग्री की जाँच करने के लिए पृष्ठ स्क्रॉल करें"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "पढ़ते समय नियंत्रण बार दिखाएं"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "छिपाएँ"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "सामान्य आइकन"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "फ़्लोटिंग आइकन दिखाएँ"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "छोटा आइकन"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "छोटा"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n/a",
+      "message": "सामान्य"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "लंबा"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "वॉयस कैश लंबाई"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "आवाज़ *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "केवल मेरी भाषा के लिए"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "आरामदायक"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "सामान्य"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "तेज़"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "साउंड वॉल्यूम"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/a",
+      "message": "यूट्यूब साउंड वॉल्यूम"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>अफ़्रीकी -af\u003C1-am>अम्हारिक -am\u003C2-ar>अरबी -ar\u003C3-az>अज़रबैजानी -az\u003C4-bg>बल्गेरियाई -bg\u003C5-bn>बंगाली -bn\u003C6-bs>बोस्नियाई -bs\u003C7-ca>कैटलन -ca\u003C8-cs>चेक -cs\u003C9-cy>वेल्श -cy\u003C10-da>डेनिश -da\u003C11-de>जर्मन -de\u003C12-el>ग्रीक (आधुनिक) -el\u003C13-en>अंग्रेज़ी -en\u003C14-es>स्पेनिश -es\u003C15-et>एस्टोनियाई -et\u003C16-fa>फ़ारसी (फ़ारसी) -fa\u003C17-fi>फ़िनिश -fi\u003C18-fil>फ़िलिपिनो -fil\u003C19-fr>फ़्रेंच -fr\u003C20-ga>आयरिश -ga\u003C21-gl>गैलिशियन -gl\u003C22-gu>गुजराती -gu\u003C23-he>हिब्रू (आधुनिक) -he\u003C24-hi>हिंदी -hi\u003C25-hr>क्रोएशियाई -hr\u003C26-hu>हंगेरियन -hu\u003C27-id>इंडोनेशियाई -id\u003C28-is>आइसलैंडिक -is\u003C29-it>इतालवी -it\u003C30-ja>जापानी -ja\u003C31-jv>जावानीस -jv\u003C32-ka>जॉर्जियाई -ka\u003C33-kk>कजाख -kk\u003C34-km>खमेर -km\u003C35-kn>कन्नड़ -kn\u003C36-ko>कोरियाई -ko\u003C37-lo>लाओ -lo\u003C38-lt>लिथुआनियाई -lt\u003C39-lv>लातवियाई -lv\u003C40-mk>मेसीडोनियन -mk\u003C41-ml>मलयालम -ml\u003C42-mn>मंगोलियाई -mn\u003C43-mr>मराठी -mr\u003C44-ms>मलय -ms\u003C45-mt>माल्टीज़ -mt\u003C46-my>बर्मी -my\u003C47-nb>नॉर्वेजियन बोकमाल -nb\u003C48-ne>नेपाली -ne\u003C49-nl>डच -nl\u003C50-pl>पोलिश -pl\u003C51-ps>पश्तो -ps\u003C52-pt>पुर्तगाली -pt\u003C53-ro>रोमानियाई -ro\u003C54-ru>रूसी -ru\u003C55-si>सिंहली -si\u003C56-sk>स्लोवाक -sk\u003C57-sl>स्लोवेनियाई -sl\u003C58-so>सोमाली -so\u003C59-sq>अल्बानियाई -sq\u003C60-sr>सर्बियाई -sr\u003C61-su>सुंडानी -su\u003C62-sv>स्वीडिश -sv\u003C63-sw>स्वाहिली -sw\u003C64-ta>तमिल -ta\u003C65-te>तेलुगु -te\u003C66-th>थाई -th\u003C67-tr>तुर्की -tr\u003C68-uk>यूक्रेनी -uk\u003C69-ur>उर्दू -ur\u003C70-uz>उज़्बेक -uz\u003C71-vi>वियतनामी -vi\u003C72-zh>चीनी -zh\u003C73-zu>ज़ुलु -zu"
+   }
+}

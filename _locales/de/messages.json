@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "Erweiterungsbeschreibung",
+      "message": "YouTube-Videos in die bevorzugte Sprache des Benutzers synchronisieren. Webseitenleser"
+   },
+   "extName": {
+      "description": "Erweiterungsname",
+      "message": "Synchronisation von YouTube-Untertiteln und Web-Seiten-Leser"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "n/a",
+      "message": "Der Untertitel ist fehlerhaft."
+   },
+   "message_error_blocked_detail": {
+      "description": "n/a",
+      "message": "Bitte versuchen Sie es erneut oder aktualisieren Sie die Seite. Der Website-Anbieter blockiert möglicherweise das Einlesen der Seite durch die Engine."
+   },
+   "message_error_reading_blocked": {
+      "description": "n/a",
+      "message": "Fehler beim Abspielen"
+   },
+   "message_error_tts_error": {
+      "description": "n/a",
+      "message": "Das Netzwerk ist langsam"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "Untertitel konnten nicht geladen werden. Bitte überprüfen Sie, ob Untertitel für das Video verfügbar sind. Sie können versuchen, die Untertitel manuell einzuschalten und das Video erneut abzuspielen."
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "Die Wiedergabe mit der synchronisierten Stimme wird automatisch gestartet"
+   },
+   "settings_button_feedback": {
+      "description": " n/a",
+      "message": "Feedback"
+   },
+   "settings_button_reset": {
+      "description": "n/a",
+      "message": "Zurücksetzen"
+   },
+   "settings_button_save": {
+      "description": "n/a",
+      "message": "Speichern"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "Sprachgeschwindigkeit"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "dynamischer Sprachlautstärke"
+   },
+   "settings_message_not_initialized": {
+      "description": "n/a",
+      "message": "Die Engine ist noch nicht initialisiert. Bitte wählen Sie Ihre bevorzugte Stimme aus und speichern Sie"
+   },
+   "settings_message_not_loaded": {
+      "description": "n/a",
+      "message": "Konfiguration konnte nicht vom Server geladen werden. Bitte aktualisieren Sie die Seite, um es noch einmal zu versuchen"
+   },
+   "settings_message_reset": {
+      "description": "n/a",
+      "message": "Alle Konfigurationen wurden auf ihre Standardwerte zurückgesetzt"
+   },
+   "settings_message_saved": {
+      "description": "n/a",
+      "message": " Konfiguration wurde gespeichert"
+   },
+   "settings_message_updated": {
+      "description": "n/a",
+      "message": "Plugin wurde aktualisiert"
+   },
+   "settings_pitch_deep": {
+      "description": "n/a",
+      "message": "Tief "
+   },
+   "settings_pitch_excited": {
+      "description": "n/a",
+      "message": "Hoch"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "Ton"
+   },
+   "settings_pitch_standard": {
+      "description": "n/a",
+      "message": "Standard"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "n/a",
+      "message": "Seite scrollen, um den Inhalt vor dem Lesen zu überprüfen"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "Steuerleiste während des Lesens anzeigen"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "n/a",
+      "message": "Ausblenden"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "n/a",
+      "message": "Normales Symbol"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "n/a",
+      "message": "Schwebendes Symbol anzeigen"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "n/a",
+      "message": "Kleines Symbol"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "Kurz"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "Normal"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "Lang"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "Sprachcache-Länge"
+   },
+   "settings_voice_section": {
+      "description": "n/a",
+      "message": "Stimme *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "n/a",
+      "message": "Nur für meine Sprache"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "entspannt"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "Normal"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "Schnell"
+   },
+   "speed_panel_volume": {
+      "description": "n/a",
+      "message": "Lautstärke"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Youtube-Lautstärke"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>Afrikaans -af\u003C1-am>Amharisch -am\u003C2-ar>Arabisch -ar\u003C3-az>Aserbaidschanisch -az\u003C4-bg>Bulgarisch -bg\u003C5-bn>Bengali -bn\u003C6 -bs>Bosnisch -bs\u003C7-ca>Katalanisch -ca\u003C8-cs>Tschechisch -cs\u003C9-cy>Walisisch -cy\u003C10-da>Dänisch -da\u003C11-de>Deutsch -de\u003C12-el >Griechisch (modern) -el\u003C13-en>Englisch -en\u003C14-es>Spanisch -es\u003C15-et>Estnisch -et\u003C16-fa>Persisch (Farsi) -fa\u003C17-fi>Finnisch -fi \u003C18-fil>Filipino -fil\u003C19-fr>Französisch -fr\u003C20-ga>Irisch -ga\u003C21-gl>Galizisch -gl\u003C22-gu>Gujarati -gu\u003C23-he>Hebräisch (modern) - he\u003C24-hi>Hindi -hi\u003C25-hr>Kroatisch -hr\u003C26-hu>Ungarisch -hu\u003C27-id>Indonesisch -id\u003C28-is>Isländisch -is\u003C29-it>Italienisch -it\u003C 30-ja>Japanisch -ja\u003C31-jv>Javanisch -jv\u003C32-ka>Georgisch -ka\u003C33-kk>Kasachisch -kk\u003C34-km>Khmer -km\u003C35-kn>Kannada -kn\u003C36- ko>Koreanisch -ko\u003C37-lo>Laotisch -lo\u003C38-lt>Litauisch -lt\u003C39-lv>Lettisch -lv\u003C40-mk>Mazedonisch -mk\u003C41-ml>Malayalam -ml\u003C42-mn> Mongolisch -mn\u003C43-mr>Marathi -mr\u003C44-ms>Malaiisch -ms\u003C45-mt>Maltesisch -mt\u003C46-my>Burmesisch -my\u003C47-nb>Norwegisch Bokmål -nb\u003C48-ne>Nepali -ne\u003C49-nl>Niederländisch -nl\u003C50-pl>Polnisch -pl\u003C51-ps>Paschtu -ps\u003C52-pt>Portugiesisch -pt\u003C53-ro>Rumänisch -ro\u003C54-ru>Russisch -ru \u003C55-si>Singhalesisch -si\u003C56-sk>Slowakisch -sk\u003C57-sl>Slowenisch -sl\u003C58-so>Somali -so\u003C59-sq>Albanisch -sq\u003C60-sr>Serbisch -sr\u003C61 -su>Sundanesisch -su\u003C62-sv>Schwedisch -sv\u003C63-sw>Swahili -sw\u003C64-ta>Tamil -ta\u003C65-te>Telugu -te\u003C66-th>Thailändisch -th\u003C67-tr >Türkisch -tr\u003C68-uk>Ukrainisch -uk\u003C69-ur>Urdu -ur\u003C70-uz>Usbekisch -uz\u003C71-vi>Vietnamesisch -vi\u003C72-zh>Chinesisch -zh\u003C73-zu>Zulu -zu"
+   }
+}

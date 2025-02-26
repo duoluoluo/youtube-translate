@@ -1,0 +1,162 @@
+{
+   "extDescription": {
+      "description": "扩展程序描述",
+      "message": "以用户的首选语言配音 YouTube 视频。网页阅读器"
+   },
+   "extName": {
+      "description": "扩展名",
+      "message": "YouTube字幕配音和网页阅读器"
+   },
+   "message_error_bad_subtitle_detail": {
+      "description": "不适用",
+      "message": "字幕已损坏。"
+   },
+   "message_error_blocked_detail": {
+      "description": "不适用",
+      "message": "请重试或刷新页面。网站提供商可能会阻止引擎读取页面。"
+   },
+   "message_error_reading_blocked": {
+      "description": "不适用",
+      "message": "播放时出错"
+   },
+   "message_error_tts_error": {
+      "description": "不适用",
+      "message": "网络缓慢"
+   },
+   "message_error_tts_subtitle_not_ready": {
+      "description": "n/a",
+      "message": "加载字幕失败。请检查视频字幕是否可用。您可以尝试手动打开字幕并再次播放"
+   },
+   "settings_auto_play": {
+      "description": "n/a",
+      "message": "自动开始播放配音"
+   },
+   "settings_button_feedback": {
+      "description": "不适用",
+      "message": "反馈"
+   },
+   "settings_button_reset": {
+      "description": "不适用",
+      "message": "重置"
+   },
+   "settings_button_save": {
+      "description": "不适用",
+      "message": "保存"
+   },
+   "settings_dvl_section": {
+      "description": "n/a",
+      "message": "语音速度"
+   },
+   "settings_dynamic_volume": {
+      "description": "n/a",
+      "message": "动态语音音量"
+   },
+   "settings_message_not_initialized": {
+      "description": "不适用",
+      "message": "引擎尚未初始化。请选择您喜欢的语音并保存"
+   },
+   "settings_message_not_loaded": {
+      "description": "不适用",
+      "message": "无法从服务器加载配置。请刷新页面重试"
+   },
+   "settings_message_reset": {
+      "description": "不适用",
+      "message": "所有配置已重置为默认值"
+   },
+   "settings_message_saved": {
+      "description": "不适用",
+      "message": "配置已保存"
+   },
+   "settings_message_updated": {
+      "description": "不适用",
+      "message": "插件已更新"
+   },
+   "settings_pitch_deep": {
+      "description": "不适用",
+      "message": "深沉 "
+   },
+   "settings_pitch_excited": {
+      "description": "不适用",
+      "message": "高"
+   },
+   "settings_pitch_section": {
+      "description": "n/a",
+      "message": "音调"
+   },
+   "settings_pitch_standard": {
+      "description": "不适用",
+      "message": "标准"
+   },
+   "settings_scroll_before_reading_page_section": {
+      "description": "不适用",
+      "message": "阅读前滚动页面检查内容"
+   },
+   "settings_show_floating_bar": {
+      "description": "n/a",
+      "message": "在阅读时显示控制条"
+   },
+   "settings_show_floating_icon_hide": {
+      "description": "不适用",
+      "message": "隐藏"
+   },
+   "settings_show_floating_icon_normal": {
+      "description": "不适用",
+      "message": "普通图标"
+   },
+   "settings_show_floating_icon_section": {
+      "description": "不适用",
+      "message": "显示浮动图标"
+   },
+   "settings_show_floating_icon_small": {
+      "description": "不适用",
+      "message": "小图标"
+   },
+   "settings_voice_cache_l1": {
+      "description": "n/a",
+      "message": "短"
+   },
+   "settings_voice_cache_l2": {
+      "description": "n /a",
+      "message": "正常"
+   },
+   "settings_voice_cache_l3": {
+      "description": "n/a",
+      "message": "长"
+   },
+   "settings_voice_cache_section": {
+      "description": "n/a",
+      "message": "语音缓存长度"
+   },
+   "settings_voice_section": {
+      "description": "不适用",
+      "message": "语音 *"
+   },
+   "settings_voice_show_my_language_only": {
+      "description": "不适用",
+      "message": "仅适用于我的语言"
+   },
+   "settings_voice_speed_l1": {
+      "description": "n/a",
+      "message": "悠闲"
+   },
+   "settings_voice_speed_l3": {
+      "description": "n/a",
+      "message": "正常"
+   },
+   "settings_voice_speed_l4": {
+      "description": "n/a",
+      "message": "快"
+   },
+   "speed_panel_volume": {
+      "description": "不适用",
+      "message": "音量"
+   },
+   "speed_panel_youtube_volume": {
+      "description": "n/ a",
+      "message": "Youtube 音量"
+   },
+   "voices": {
+      "description": "n/a",
+      "message": "\u003C0-af>南非荷兰语 -af\u003C1-am>阿姆哈拉语 -am\u003C2-ar>阿拉伯语 -ar\u003C3-az>阿塞拜疆语 -az\u003C4-bg>保加利亚语 -bg\u003C5-bn>孟加拉语 -bn\u003C6 -bs>波斯尼亚语 -bs\u003C7-ca>加泰罗尼亚语 -ca\u003C8-cs>捷克语 -cs\u003C9-cy>威尔士语 -cy\u003C10-da>丹麦语 -da\u003C11-de>德语 -de\u003C12-el >希腊语（现代）-el\u003C13-en>英语 -en\u003C14-es>西班牙语 -es\u003C15-et>爱沙尼亚语 -et\u003C16-fa>波斯语（波斯语）-fa\u003C17-fi>芬兰语 -fi \u003C18-fil>菲律宾语 -fil\u003C19-fr>法语 -fr\u003C20-ga>爱尔兰语 -ga\u003C21-gl>加利西亚语 -gl\u003C22-gu>古吉拉特语 -gu\u003C23-he>希伯来语（现代）- he\u003C24-hi>印地语 -hi\u003C25-hr>克罗地亚语 -hr\u003C26-hu>匈牙利语 -hu\u003C27-id>印度尼西亚语 -id\u003C28-is>冰岛语 -is\u003C29-it>意大利语 -it\u003C 30-ja>日语 -ja\u003C31-jv>爪哇语 -jv\u003C32-ka>格鲁吉亚语 -ka\u003C33-kk>哈萨克语 -kk\u003C34-km>高棉语 -km\u003C35-kn>卡纳达语 -kn\u003C36- ko>韩语 -ko\u003C37-lo>老挝语 -lo\u003C38-lt>立陶宛语 -lt\u003C39-lv>拉脱维亚语 -lv\u003C40-mk>马其顿语 -mk\u003C41-ml>马拉雅拉姆语 -ml\u003C42-mn>蒙古语 -mn\u003C43-mr>马拉地语 -mr\u003C44-ms>马来语 -ms\u003C45-mt>马耳他语 -mt\u003C46-my>缅甸语 -my\u003C47-nb>挪威语 博克马尔语 -nb\u003C48-ne>尼泊尔语-ne\u003C49-nl>荷兰语 -nl\u003C50-pl>波兰语 -pl\u003C51-ps>普什图语 -ps\u003C52-pt>葡萄牙语 -pt\u003C53-ro>罗马尼亚语 -ro\u003C54-ru>俄语 -ru \u003C55-si>僧伽罗语 -si\u003C56-sk>斯洛伐克语 -sk\u003C57-sl>斯洛文尼亚语 -sl\u003C58-so>索马里语 -so\u003C59-sq>阿尔巴尼亚语 -sq\u003C60-sr>塞尔维亚语 -sr\u003C61 -su>巽他语 -su\u003C62-sv>瑞典语 -sv\u003C63-sw>斯瓦希里语 -sw\u003C64-ta>泰米尔语 -ta\u003C65-te>泰卢固语 -te\u003C66-th>泰语 -th\u003C67-tr >土耳其语 -tr\u003C68-uk>乌克兰语 -uk\u003C69-ur>乌尔都语 -ur\u003C70-uz>乌兹别克语 -uz\u003C71-vi>越南语 -vi\u003C72-zh>中文 -zh\u003C73-zu>祖鲁语-zu"
+   }
+}
